@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CJ
 - 👀 I’m interested in anything tech
-- 🌱 I’m learning SQL and Python
+- 🌱 I’m into SQL and Python
 - 💞️ I’m looking to collaborate with anyone as far as I'm learning
 - 📫 How to reach me ubanich56@gmail.com
 
